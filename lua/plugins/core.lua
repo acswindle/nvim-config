@@ -1,10 +1,4 @@
 return {
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "catppuccin",
-    },
-  },
   -- install without yarn or npm
   {
     "iamcco/markdown-preview.nvim",
