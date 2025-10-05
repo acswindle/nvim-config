@@ -1,0 +1,20 @@
+return {}
+--  return {
+--   "williamboman/mason.nvim",
+--   opts = {
+--     ensure_installed = {
+--       -- Add your desired Mason packages here
+--       "pyright",
+--       "ruff",
+--       "prettier",
+--       "prettierd",
+--       "sqlfluff",
+--       "marksman",
+--       "ruff-analyzer",
+--       "htmlbeautifier",
+--       "json-lsp",
+--       "djlint",
+--       -- Add more as needed
+--     },
+--   },
+-- }
